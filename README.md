@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Miromanov Daniil</h1>
-<h3 align="center">Student of Sirius University. Currently studying at the Faculty of Financial Technologies and Mathematics.</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/nealmiromanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nealmiromanov" height="30" width="40" /></a>
